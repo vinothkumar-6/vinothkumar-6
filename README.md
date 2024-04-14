@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning React
 
-- 📝 I just started to write articles on [https://medium.com/@vinothkumar-6](https://medium.com/@vinothkumar-6)
+- 📝 I just started writing articles on [https://medium.com/@vinothkumar-6](https://medium.com/@vinothkumar-6)
 
 
 
@@ -64,6 +64,10 @@ Other Tools                | ![JIRA](https://img.shields.io/badge/JIRA-0052CC?st
 
 ## 📈 GitHub Activity Graph:
 <table>
+<tr>
+        <td align="center"><a href="https://github.com/vinothkumar-6#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vinothkumar-6&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vinothkumar-6#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vinothkumar-6&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/vinothkumar-6#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothkumar-6&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vinothkumar-6#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothkumar-6&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
     <tr>
         <td align="center"><a href="https://github.com/vinothkumar-6#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinothkumar-6&theme=default"/></a><a href="https://github.com/vinothkumar-6#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinothkumar-6&theme=tokyonight"/></a></td>
     </tr>
