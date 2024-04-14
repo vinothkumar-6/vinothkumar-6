@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning React
 
-- 📝 I regularly write articles on [https://medium.com/@vinothkumar-6](https://medium.com/@vinothkumar-6)
+- 📝 I just started to write articles on [https://medium.com/@vinothkumar-6](https://medium.com/@vinothkumar-6)
 
 
 
