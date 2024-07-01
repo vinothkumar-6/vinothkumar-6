@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinoth Kumar Jayandiran</h1>
+<h1 align="center">Hi 👋, I'm Vinoth </h1>
 <h3 align="center">Professional Full Stack Java Developer</h3>
 <h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
 
