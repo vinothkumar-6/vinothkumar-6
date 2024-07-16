@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinothkumar-6&label=Profile%20views&color=blue&style=for-the-badge" alt="vinothkumar-6" /> </p>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
 
 - 📝 I just started writing articles on [https://medium.com/@vinothkumar-6](https://medium.com/@vinothkumar-6)
 
